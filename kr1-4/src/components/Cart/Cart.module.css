@@ -1,0 +1,26 @@
+.cart {
+  width: 100%;
+}
+
+.price {
+  font-weight: 600;
+  color: #1677ff;
+  white-space: nowrap;
+  margin-left: 16px;
+}
+
+.total {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #f0f0f0;
+  font-size: 18px;
+}
+
+.sum {
+  font-size: 22px;
+  font-weight: 700;
+  color: #1677ff;
+}

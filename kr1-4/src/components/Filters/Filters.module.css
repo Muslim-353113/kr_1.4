@@ -1,0 +1,14 @@
+.filters {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.search {
+  max-width: 400px;
+  flex: 1 1 240px;
+}
+
+.select {
+  width: 200px;
+}

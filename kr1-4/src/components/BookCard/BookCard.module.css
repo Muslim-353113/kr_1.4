@@ -1,0 +1,26 @@
+.card {
+  height: 100%;
+}
+
+.card :global(.ant-card-head-title) {
+  white-space: normal;
+  font-size: 15px;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.author {
+  color: #666;
+  font-size: 14px;
+}
+
+.price {
+  font-size: 22px;
+  font-weight: 700;
+  color: #1677ff;
+  margin: 0;
+}
